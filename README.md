@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @alfredbalami
 - 👀 I’m interested in Python, SQL, HTML, CSS, JS, GDS Etc
-- 🌱 I’m currently learning HTML, CSS
-- 💞️ I’m looking to collaborate on anyone with common interest.
+- 🌱 I’m currently learning Machine Learning
+- 💞️ I’m looking to collaborating with anyone on common interest.
 - 📫 How to reach me 
 
 <!---
