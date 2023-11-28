@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @alfredbalami
+- 👋 Hi, I’m @Fedly
 - 👀 I’m interested in Python, SQL, HTML, CSS, JS, GDS Etc
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborating with anyone on common interest.
